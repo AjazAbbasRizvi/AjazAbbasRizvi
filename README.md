@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjazAbbasRizvi
 - 👀 I’m interested in Angular, ASP.NET WebAPI, JavaScript, HTML, CSS, Postgresql
-- 🌱 I’m currently learning c#
+- 🌱 Always learning something new
 - 💞️ I’m looking to collaborate on Angular, ASP.NET
 - 📫 How to reach me - ajazabbasrizvi96@gmail.com
 
